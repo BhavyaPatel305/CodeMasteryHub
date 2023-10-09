@@ -32,7 +32,7 @@ export const Login = () => {
                     <TextField id='password' label='Password' variant='outlined' style={{width:'80%'}} />
                     <br />
                     
-                    <Button variant='contained' style={{width:'80%'}}>Sign In</Button>
+                    <Button variant='contained' >Sign In</Button>
                     <br/>
                     Forgot Password?
                     <br/>
